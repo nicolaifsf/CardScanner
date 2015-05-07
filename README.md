@@ -28,3 +28,6 @@
 1. [LibUSB] (http://www.libusb.org/)
 2. [pyusb](http://walac.github.io/pyusb/)
 3. [blogpost](http://nessy.info/?p=70)
+4. [tkinter](https://docs.python.org/2/library/tkinter.html)
+5. [tkinter tutorial](http://www.tutorialspoint.com/python/python_gui_programming.htm)
+6. [learning shapes](http://zetcode.com/gui/tkinter/drawing/)
