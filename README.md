@@ -17,6 +17,7 @@
 5.Make an ~~nice-looking~~ okay-looking gui: **Complete**
 
 6.Improve accuracy when using GUI instead of command line interface: **Complete** 
+
 	(This seems to only work accurately on OSX for some reason?)
 
 7.Need to figure out how to convert to .exe: Need to Do
